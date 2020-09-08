@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919500917072",
+    "firebase_url": "https://scrum-game-uade.firebaseio.com",
+    "project_id": "scrum-game-uade",
+    "storage_bucket": "scrum-game-uade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919500917072:android:95abaadbbf69d982a70455",
+        "android_client_info": {
+          "package_name": "ar.edu.uade.scrumgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919500917072-in2sld3aj8fajvir1j5st5c7gejc19q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw9iWMfdKWNh4atWNYFw7mfVaCGWzRPuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919500917072-in2sld3aj8fajvir1j5st5c7gejc19q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
