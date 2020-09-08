@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142439088048",
+    "firebase_url": "https://gestorscrum.firebaseio.com",
+    "project_id": "gestorscrum",
+    "storage_bucket": "gestorscrum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142439088048:android:24401166a9c0942f872075",
+        "android_client_info": {
+          "package_name": "ar.edu.uade.scrumgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142439088048-65h40tb1d39d34eu5anc6k6bj9iavi2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYEZPWmF6cEBjiIzTGdYfxOVzvNSb8cCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142439088048-65h40tb1d39d34eu5anc6k6bj9iavi2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
